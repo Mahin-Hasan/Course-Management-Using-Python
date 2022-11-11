@@ -1,0 +1,1 @@
+course code: 1,course name: Python, Total credit: 3, Prerequisite: 10
